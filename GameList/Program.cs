@@ -11,7 +11,11 @@ namespace GameList
             var gameList = new List<string> { "Super Mario Brothers", "Destiny 2", "Fall Out Guys", "Contra", "Tomb Raider: Rise of the Tomb Raider" };
             var nameLength = gameList.OrderBy(game => game.Length);
 
-            Console.ReadLine();
+            foreach(var game in nameLength)
+            {
+                Console.WriteLine(game);
+            }
+           
         }
     }
 }
