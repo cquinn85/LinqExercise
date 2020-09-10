@@ -1,0 +1,13 @@
+C:\Users\cequi\repos\GameList\GameList\bin\Debug\netcoreapp3.1\GameList.exe
+C:\Users\cequi\repos\GameList\GameList\bin\Debug\netcoreapp3.1\GameList.deps.json
+C:\Users\cequi\repos\GameList\GameList\bin\Debug\netcoreapp3.1\GameList.runtimeconfig.json
+C:\Users\cequi\repos\GameList\GameList\bin\Debug\netcoreapp3.1\GameList.runtimeconfig.dev.json
+C:\Users\cequi\repos\GameList\GameList\bin\Debug\netcoreapp3.1\GameList.dll
+C:\Users\cequi\repos\GameList\GameList\bin\Debug\netcoreapp3.1\GameList.pdb
+C:\Users\cequi\repos\GameList\GameList\obj\Debug\netcoreapp3.1\GameList.csprojAssemblyReference.cache
+C:\Users\cequi\repos\GameList\GameList\obj\Debug\netcoreapp3.1\GameList.AssemblyInfoInputs.cache
+C:\Users\cequi\repos\GameList\GameList\obj\Debug\netcoreapp3.1\GameList.AssemblyInfo.cs
+C:\Users\cequi\repos\GameList\GameList\obj\Debug\netcoreapp3.1\GameList.csproj.CoreCompileInputs.cache
+C:\Users\cequi\repos\GameList\GameList\obj\Debug\netcoreapp3.1\GameList.dll
+C:\Users\cequi\repos\GameList\GameList\obj\Debug\netcoreapp3.1\GameList.pdb
+C:\Users\cequi\repos\GameList\GameList\obj\Debug\netcoreapp3.1\GameList.genruntimeconfig.cache
